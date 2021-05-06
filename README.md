@@ -7,4 +7,4 @@
 My favorite quote 
 >Look deep into nature, and then you will understand everything better - Albert Einstein
 
-[This Project Link] (https://shuknorris.github.io/codea/)
+[This Project Link](https://shuknorris.github.io/codea/)
